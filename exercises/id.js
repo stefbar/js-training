@@ -7,6 +7,11 @@
  */
 
 // Your code :
+function id(parameter) {
+    let argReturned = parameter;
+    return argReturned; 
+}
+
 
 //* Begin of tests
 const assert = require('assert')
